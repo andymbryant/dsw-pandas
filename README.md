@@ -1,1 +1,2 @@
-# dsw-pandas
+# Data Science Workshop
+### An Introduction to Pandas
